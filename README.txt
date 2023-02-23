@@ -7,6 +7,8 @@ WIP Realism Overhaul support for the Bluedog Design Bureau Mod
 
 Requires the test .dll files for B9PartSwitch and RealFuels you can find on the RealismOverhaul Discord
 
+If you want to use the engines, you need to delete the PatchManager folder from ROEngines, otherwise the engines in BDB will not show up
+
 
 NOTES:
 
