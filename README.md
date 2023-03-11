@@ -12,8 +12,8 @@ If you want to use the engines, you need to delete the PatchManager folder from 
 
 NOTES:
 
-- This download only includes full support for the rockets in BDB, and partial support for the probes.
-- The Capsules are partially configured but do not use them unless you are debugging them
+- This download includes Full Support for BDB
 
-- This is a TEST DOWNLOAD, do not use it unless you are trying to help out
-- with the Development of these configs. This is not a finished product.
+- This is a Beta Download, there are bugs and not everything is 100% complete, but everything here should work
+
+- RP1 not currently supported
