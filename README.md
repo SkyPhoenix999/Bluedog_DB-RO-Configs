@@ -9,7 +9,7 @@ WIP Realism Overhaul support for the Bluedog Design Bureau Mod
 
 	  1: Install RealismOverhaul (CKAN Express Install or manual, doesn't matter)
  
-	  2: Install the **DEVELOPMENT BUILD** of Bluedog_DB
+	  2: Install the **LATEST RELEASE (V1.14)** of Bluedog_DB
 
 	  3: Open the RealismOverhaul Folder inside the GameData Folder
   
