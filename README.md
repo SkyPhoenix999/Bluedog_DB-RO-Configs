@@ -21,7 +21,9 @@ WIP Realism Overhaul support for the Bluedog Design Bureau Mod
   
 	  7: **OPTIONAL BDB ENGINE INCLUSION (SEE BELOW)**
   
-	  8: Done, load up the game and have fun
+	  8: OPTIONAL RP-1 Configs: Copy the zBDBRP1Configs folder provided in this download into GameData
+  
+	  9: Done, load up the game and have fun
 
 
 **IF YOU WANT BDB ENGINES (OPTIONAL)**:
@@ -37,5 +39,3 @@ NOTES:
 - This download includes Full Support for BDB and will keep up with Development Updates as time goes on.
 
 - This is a Beta Download, there are bugs and not everything is 100% complete, but everything here should work.
-
-- RP1 not supported.
